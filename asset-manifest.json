@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/We-re_like/static/css/main.f07190b6.chunk.css",
+    "main.js": "/We-re_like/static/js/main.1d03797d.chunk.js",
+    "main.js.map": "/We-re_like/static/js/main.1d03797d.chunk.js.map",
+    "runtime-main.js": "/We-re_like/static/js/runtime-main.1a413e75.js",
+    "runtime-main.js.map": "/We-re_like/static/js/runtime-main.1a413e75.js.map",
+    "static/css/2.051905ae.chunk.css": "/We-re_like/static/css/2.051905ae.chunk.css",
+    "static/js/2.5b14852a.chunk.js": "/We-re_like/static/js/2.5b14852a.chunk.js",
+    "static/js/2.5b14852a.chunk.js.map": "/We-re_like/static/js/2.5b14852a.chunk.js.map",
+    "index.html": "/We-re_like/index.html",
+    "precache-manifest.2d4e30a84815eba8059263d28ec1115c.js": "/We-re_like/precache-manifest.2d4e30a84815eba8059263d28ec1115c.js",
+    "service-worker.js": "/We-re_like/service-worker.js",
+    "static/css/2.051905ae.chunk.css.map": "/We-re_like/static/css/2.051905ae.chunk.css.map",
+    "static/css/main.f07190b6.chunk.css.map": "/We-re_like/static/css/main.f07190b6.chunk.css.map",
+    "static/js/2.5b14852a.chunk.js.LICENSE.txt": "/We-re_like/static/js/2.5b14852a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a413e75.js",
+    "static/css/2.051905ae.chunk.css",
+    "static/js/2.5b14852a.chunk.js",
+    "static/css/main.f07190b6.chunk.css",
+    "static/js/main.1d03797d.chunk.js"
+  ]
+}
